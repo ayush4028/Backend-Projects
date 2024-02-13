@@ -1,3 +1,5 @@
+// All the controllers part of the delete statement of the TODO list
+
 // import the model
 const Todo = require("../models/Todo");
 
